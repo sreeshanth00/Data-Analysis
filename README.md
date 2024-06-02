@@ -1,3 +1,3 @@
 # Hola 👋 soy Sreeshanth
 
-Welcome ya'll Here , I'll Post my Data Analysis  Projects 
+Welcome ya'll, Here i'll Post my Data Analysis  Projects 
